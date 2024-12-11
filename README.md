@@ -8,12 +8,12 @@ OS Manufacturrer:               Microsoft coraporation
 
 OS Configuration:               Member Workstation
 
-Os Build Type:  
+Os Build Type:                  Multiprocessor Free
 
-Orginal Install Date
+Original Install Date:     8/30/2024, 3:39:22 PM
 
-System Boot TiMe:
-
+System Boot Time:          12/11/2024, 9:14:02 AM
+           
 System Manufacturer:             Dell inc.
 
 System Model:                    Optiplex SFF Plus 7010
@@ -28,3 +28,47 @@ VirtuaL Memory:                  33.7 Gb
  
 Available Virtual Memory:        23.3 Gb
 
+Virtual Memory: In Use:          10,645 MB
+```
+Directory of C:\Users\Prajwal_IT241021
+
+12/11/2024  09:20 AM    <DIR>          .
+
+12/09/2024  11:16 AM    <DIR>          ..
+
+11/17/2023  10:09 PM    <DIR>          .ms-ad
+
+12/11/2024  09:15 AM    <DIR>          .VirtualBox
+
+10/21/2024  07:38 AM    <DIR>          Contacts
+
+12/11/2024  12:09 PM    <DIR>          Desktop
+
+11/12/2024  01:12 PM    <DIR>          Documents
+
+12/11/2024  10:28 AM    <DIR>          Downloads
+
+10/21/2024  07:38 AM    <DIR>          Favorites
+
+10/21/2024  07:38 AM    <DIR>          Links
+
+10/21/2024  07:38 AM    <DIR>          Music
+
+10/24/2024  09:27 AM    <DIR>          OneDrive
+
+12/11/2024  09:15 AM    <DIR>          OneDrive - lbpsb.qc.ca
+
+11/27/2024  11:20 AM    <DIR>          Pictures
+
+12/11/2024  09:20 AM         1,622,832 rufus-4.6.exe
+
+10/21/2024  07:38 AM    <DIR>          Saved Games
+
+10/21/2024  12:37 PM    <DIR>          Searches
+
+10/29/2024  09:18 AM    <DIR>          Videos
+
+               1 File(s)      1,622,832 bytes
+               
+              17 Dir(s)  929,539,108,864 bytes free
+              ```
