@@ -1,4 +1,4 @@
-PC Name:                       PC211-P23
+# PC Name:                       PC211-P23
   
 OS Name:                        Microsoft Window 11ro
 
